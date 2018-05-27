@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='5.0' target-platform='macos'>
-    <timeline fileName='timeline.xctimeline'/>
+<playground version='6.0' target-platform='macos'>
+    <pages>
+        <page name='BinaryGap'/>
+        <page name='CyclicRotation'/>
+        <page name='OddOccurrencesInArray'/>
+        <page name='ExampleClass'/>
+        <page name='GCM, LCM'/>
+        <page name='Harshad'/>
+        <page name='ReturnAvgGrade'/>
+        <page name='LeapYear'/>
+        <page name='MultiplicationTable'/>
+        <page name='Factorial'/>
+        <page name='ReturnAToThePowerOfB'/>
+        <page name='ReturnEachDigitAdd'/>
+        <page name='CommonMultiple'/>
+        <page name='DivisorNumber'/>
+        <page name='PrimeNumber'/>
+        <page name='Fibonacci'/>
+    </pages>
 </playground>
