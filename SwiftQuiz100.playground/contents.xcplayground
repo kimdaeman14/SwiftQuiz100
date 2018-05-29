@@ -17,5 +17,6 @@
         <page name='DivisorNumber'/>
         <page name='PrimeNumber'/>
         <page name='Fibonacci'/>
+        <page name='testpage'/>
     </pages>
 </playground>
